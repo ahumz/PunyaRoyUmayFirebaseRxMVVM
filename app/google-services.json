@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277402864521",
+    "firebase_url": "https://loginmvvmfirebase.firebaseio.com",
+    "project_id": "loginmvvmfirebase",
+    "storage_bucket": "loginmvvmfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277402864521:android:02a457f4aa6315c8202f58",
+        "android_client_info": {
+          "package_name": "ch.berco.loginmvvmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277402864521-qgl0u5u60vrpld58vjtsmqkgltas6jie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.berco.loginmvvmfirebase",
+            "certificate_hash": "52019e0f8cec9db708895dc419e6213a819548d8"
+          }
+        },
+        {
+          "client_id": "277402864521-10v5ld5aqrroq865jg94m7re41jvqkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmZhuaaJCaQjgxeJoS2TBGS747Hx3kpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277402864521-10v5ld5aqrroq865jg94m7re41jvqkvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
